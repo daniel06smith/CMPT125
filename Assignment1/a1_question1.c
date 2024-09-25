@@ -1,3 +1,5 @@
+// ChatGPT was used to explore C syntax, and break down the assignment into steps.
+
 #include "a1_question1.h"
 
 /*
