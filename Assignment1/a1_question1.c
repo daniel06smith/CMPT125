@@ -1,4 +1,7 @@
-// ChatGPT was used to explore C syntax, and break down the assignment into steps.
+/* ChatGPT was used to explore C syntax, and break down the assignment into steps.
+Name: Daniel Smith
+Student #: 301613547
+Computing-ID: dcs7 */
 
 #include "a1_question1.h"
 

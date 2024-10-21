@@ -5,6 +5,7 @@ Do not modify or submit.
 #ifndef _A1_QUESTION2_H_
 #define _A1_QUESTION2_H_
 
+
 #include <stdbool.h> //for the bool type
 
 /*
